@@ -1,0 +1,28 @@
+body {
+  font-size: 18px;
+  background-color: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #f26e50;
+  color: #fff;
+  text-align: center;
+
+  margin-bottom: 10px;
+}
+header h1 {
+  margin: 2px;
+}
+
+#container {
+  width: 90%;
+  margin: auto;
+  padding: 5px;
+  background-color: #f2a649;
+}
+
+input {
+  display: block;
+  margin: 5px 0;
+}
